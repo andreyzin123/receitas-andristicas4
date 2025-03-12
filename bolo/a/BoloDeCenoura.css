@@ -1,0 +1,38 @@
+body{background-color: rgb(155, 235, 255);}
+
+.preparo{position: absolute;
+    margin-left: 45%;
+    background-color: rgb(2, 96, 204);
+}
+
+img{ width: 25%;
+    height: 30%;
+    position: absolute;
+    margin-top: 6%;
+    margin-left: 1% ;
+}
+
+a{position: absolute;}
+
+ul{position: absolute;
+    margin-left: 25%;
+    margin-top: 6%;
+}
+
+.ingredientes{ position: absolute;
+margin-left: 44%;
+margin-top: 20%;
+background-color: rgb(2, 96, 204);
+}
+
+.a img{ 
+    width: 350px;
+    height: 350px;
+    margin-top:400px;
+    margin-left: 1500px;
+}
+
+.preparo2 ul{ margin-top: 570px;
+margin-right: 350px;}
+
+
